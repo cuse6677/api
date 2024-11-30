@@ -18,9 +18,9 @@
         ],
         "gpa": 3.8,
         "subjects": {
-            "Algebra": 88,
-            "Calculus": 92,
-            "Physics": 85
+            "Algebra": 91,
+            "Calculus": 88,
+            "Physics": 79
         },
         "image": "https://fakeimg.pl/500x500/cc6600"
     },
@@ -43,9 +43,9 @@
         ],
         "gpa": 3.6,
         "subjects": {
-            "Organic Chemistry": 84,
-            "Biochemistry": 78,
-            "Botany": 82
+            "Algebra": 84,
+            "Calculus": 90,
+            "Physics": 78
         },
         "image": "https://fakeimg.pl/500x500/cc6601"
     },
@@ -68,9 +68,9 @@
         ],
         "gpa": 3.5,
         "subjects": {
-            "World History": 75,
-            "American Literature": 80,
-            "European History": 78
+            "Algebra": 89,
+            "Calculus": 85,
+            "Physics": 92
         },
         "image": "https://fakeimg.pl/500x500/cc6602"
     },
@@ -93,9 +93,9 @@
         ],
         "gpa": 3.9,
         "subjects": {
-            "Programming": 95,
-            "Graphic Design": 89,
-            "Algorithms": 92
+            "Algebra": 82,
+            "Calculus": 94,
+            "Physics": 88
         },
         "image": "https://fakeimg.pl/500x500/cc6603"
     },
@@ -118,9 +118,9 @@
         ],
         "gpa": 3.7,
         "subjects": {
-            "Microeconomics": 88,
-            "Macroeconomics": 85,
-            "Political Theory": 83
+            "Algebra": 88,
+            "Calculus": 86,
+            "Physics": 81
         },
         "image": "https://fakeimg.pl/500x500/cc6604"
     },
@@ -143,9 +143,9 @@
         ],
         "gpa": 3.8,
         "subjects": {
-            "Social Psychology": 90,
-            "Cognitive Science": 87,
-            "Sociological Theory": 85
+            "Algebra": 85,
+            "Calculus": 89,
+            "Physics": 93
         },
         "image": "https://fakeimg.pl/500x500/cc6605"
     },
@@ -168,9 +168,9 @@
         ],
         "gpa": 3.9,
         "subjects": {
-            "Thermodynamics": 92,
-            "Material Science": 88,
-            "Quantum Mechanics": 91
+            "Algebra": 94,
+            "Calculus": 90,
+            "Physics": 80
         },
         "image": "https://fakeimg.pl/500x500/cc6606"
     },
@@ -193,9 +193,9 @@
         ],
         "gpa": 3.6,
         "subjects": {
-            "Ethics": 80,
-            "Semantics": 85,
-            "Metaphysics": 78
+            "Algebra": 90,
+            "Calculus": 84,
+            "Physics": 92
         },
         "image": "https://fakeimg.pl/500x500/cc6607"
     },
@@ -218,9 +218,9 @@
         ],
         "gpa": 3.7,
         "subjects": {
-            "Strategic Management": 88,
-            "Consumer Behavior": 82,
-            "Financial Analysis": 85
+            "Algebra": 78,
+            "Calculus": 81,
+            "Physics": 88
         },
         "image": "https://fakeimg.pl/500x500/cc6608"
     },
@@ -243,9 +243,9 @@
         ],
         "gpa": 3.5,
         "subjects": {
-            "Cultural Anthropology": 79,
-            "Ancient Civilizations": 84,
-            "Ethnography": 80
+            "Algebra": 81,
+            "Calculus": 95,
+            "Physics": 87
         },
         "image": "https://fakeimg.pl/500x500/cc6609"
     },
@@ -268,9 +268,9 @@
         ],
         "gpa": 3.8,
         "subjects": {
-            "Environmental Policy": 87,
-            "Climate Change Studies": 90,
-            "Urban Geography": 85
+            "Algebra": 92,
+            "Calculus": 79,
+            "Physics": 84
         },
         "image": "https://fakeimg.pl/500x500/cc6610"
     },
@@ -288,14 +288,14 @@
         "email": "charlotte.clark@example.com",
         "phone": "555-432-9876",
         "courses": [
-            "Art History",
+            "Fine Arts",
             "Theater"
         ],
         "gpa": 3.7,
         "subjects": {
-            "Renaissance Art": 89,
-            "Stage Design": 85,
-            "Modern Art Movements": 88
+            "Algebra": 95,
+            "Calculus": 86,
+            "Physics": 79
         },
         "image": "https://fakeimg.pl/500x500/cc6611"
     }
