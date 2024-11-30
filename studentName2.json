@@ -1,0 +1,302 @@
+[
+    {
+        "id": 1,
+        "name": "John Doe",
+        "age": 20,
+        "gender": "Male",
+        "address": {
+            "street": "123 Main Street",
+            "city": "Cityville",
+            "zip": "12345",
+            "country": "USA"
+        },
+        "email": "john.doe@example.com",
+        "phone": "555-123-4567",
+        "courses": [
+            "Mathematics",
+            "Physics"
+        ],
+        "gpa": 3.8,
+        "subjects": {
+            "Algebra": 88,
+            "Calculus": 92,
+            "Physics": 85
+        },
+        "image": "https://fakeimg.pl/500x500/cc6600"
+    },
+    {
+        "id": 2,
+        "name": "Jane Smith",
+        "age": 21,
+        "gender": "Female",
+        "address": {
+            "street": "456 Park Avenue",
+            "city": "Townsville",
+            "zip": "67890",
+            "country": "USA"
+        },
+        "email": "jane.smith@example.com",
+        "phone": "555-987-6543",
+        "courses": [
+            "Chemistry",
+            "Biology"
+        ],
+        "gpa": 3.6,
+        "subjects": {
+            "Organic Chemistry": 84,
+            "Biochemistry": 78,
+            "Botany": 82
+        },
+        "image": "https://fakeimg.pl/500x500/cc6601"
+    },
+    {
+        "id": 3,
+        "name": "Michael Johnson",
+        "age": 22,
+        "gender": "Male",
+        "address": {
+            "street": "789 Oak Street",
+            "city": "Villageland",
+            "zip": "54321",
+            "country": "USA"
+        },
+        "email": "michael.johnson@example.com",
+        "phone": "555-456-7890",
+        "courses": [
+            "History",
+            "English"
+        ],
+        "gpa": 3.5,
+        "subjects": {
+            "World History": 75,
+            "American Literature": 80,
+            "European History": 78
+        },
+        "image": "https://fakeimg.pl/500x500/cc6602"
+    },
+    {
+        "id": 4,
+        "name": "Emily Brown",
+        "age": 20,
+        "gender": "Female",
+        "address": {
+            "street": "101 Elm Street",
+            "city": "Cityburg",
+            "zip": "98765",
+            "country": "USA"
+        },
+        "email": "emily.brown@example.com",
+        "phone": "555-234-5678",
+        "courses": [
+            "Computer Science",
+            "Art"
+        ],
+        "gpa": 3.9,
+        "subjects": {
+            "Programming": 95,
+            "Graphic Design": 89,
+            "Algorithms": 92
+        },
+        "image": "https://fakeimg.pl/500x500/cc6603"
+    },
+    {
+        "id": 5,
+        "name": "William Lee",
+        "age": 23,
+        "gender": "Male",
+        "address": {
+            "street": "222 Maple Avenue",
+            "city": "Townburg",
+            "zip": "13579",
+            "country": "USA"
+        },
+        "email": "william.lee@example.com",
+        "phone": "555-765-4321",
+        "courses": [
+            "Economics",
+            "Political Science"
+        ],
+        "gpa": 3.7,
+        "subjects": {
+            "Microeconomics": 88,
+            "Macroeconomics": 85,
+            "Political Theory": 83
+        },
+        "image": "https://fakeimg.pl/500x500/cc6604"
+    },
+    {
+        "id": 6,
+        "name": "Olivia Davis",
+        "age": 21,
+        "gender": "Female",
+        "address": {
+            "street": "333 Pine Lane",
+            "city": "Cityscape",
+            "zip": "24680",
+            "country": "USA"
+        },
+        "email": "olivia.davis@example.com",
+        "phone": "555-678-1234",
+        "courses": [
+            "Psychology",
+            "Sociology"
+        ],
+        "gpa": 3.8,
+        "subjects": {
+            "Social Psychology": 90,
+            "Cognitive Science": 87,
+            "Sociological Theory": 85
+        },
+        "image": "https://fakeimg.pl/500x500/cc6605"
+    },
+    {
+        "id": 7,
+        "name": "Ethan Martinez",
+        "age": 22,
+        "gender": "Male",
+        "address": {
+            "street": "444 Oak Drive",
+            "city": "Hilltown",
+            "zip": "98765",
+            "country": "USA"
+        },
+        "email": "ethan.martinez@example.com",
+        "phone": "555-890-1234",
+        "courses": [
+            "Engineering",
+            "Physics"
+        ],
+        "gpa": 3.9,
+        "subjects": {
+            "Thermodynamics": 92,
+            "Material Science": 88,
+            "Quantum Mechanics": 91
+        },
+        "image": "https://fakeimg.pl/500x500/cc6606"
+    },
+    {
+        "id": 8,
+        "name": "Sophia White",
+        "age": 20,
+        "gender": "Female",
+        "address": {
+            "street": "555 Cedar Road",
+            "city": "Forestville",
+            "zip": "11223",
+            "country": "USA"
+        },
+        "email": "sophia.white@example.com",
+        "phone": "555-123-7890",
+        "courses": [
+            "Philosophy",
+            "Linguistics"
+        ],
+        "gpa": 3.6,
+        "subjects": {
+            "Ethics": 80,
+            "Semantics": 85,
+            "Metaphysics": 78
+        },
+        "image": "https://fakeimg.pl/500x500/cc6607"
+    },
+    {
+        "id": 9,
+        "name": "Daniel Gonzalez",
+        "age": 23,
+        "gender": "Male",
+        "address": {
+            "street": "666 Birch Street",
+            "city": "Mapleton",
+            "zip": "44567",
+            "country": "USA"
+        },
+        "email": "daniel.gonzalez@example.com",
+        "phone": "555-567-8901",
+        "courses": [
+            "Business Administration",
+            "Marketing"
+        ],
+        "gpa": 3.7,
+        "subjects": {
+            "Strategic Management": 88,
+            "Consumer Behavior": 82,
+            "Financial Analysis": 85
+        },
+        "image": "https://fakeimg.pl/500x500/cc6608"
+    },
+    {
+        "id": 10,
+        "name": "Mia Harris",
+        "age": 20,
+        "gender": "Female",
+        "address": {
+            "street": "777 Spruce Avenue",
+            "city": "Riverland",
+            "zip": "66789",
+            "country": "USA"
+        },
+        "email": "mia.harris@example.com",
+        "phone": "555-789-0123",
+        "courses": [
+            "Anthropology",
+            "History"
+        ],
+        "gpa": 3.5,
+        "subjects": {
+            "Cultural Anthropology": 79,
+            "Ancient Civilizations": 84,
+            "Ethnography": 80
+        },
+        "image": "https://fakeimg.pl/500x500/cc6609"
+    },
+    {
+        "id": 11,
+        "name": "James Lopez",
+        "age": 21,
+        "gender": "Male",
+        "address": {
+            "street": "888 Willow Drive",
+            "city": "Greenville",
+            "zip": "99876",
+            "country": "USA"
+        },
+        "email": "james.lopez@example.com",
+        "phone": "555-345-6789",
+        "courses": [
+            "Environmental Science",
+            "Geography"
+        ],
+        "gpa": 3.8,
+        "subjects": {
+            "Environmental Policy": 87,
+            "Climate Change Studies": 90,
+            "Urban Geography": 85
+        },
+        "image": "https://fakeimg.pl/500x500/cc6610"
+    },
+    {
+        "id": 12,
+        "name": "Charlotte Clark",
+        "age": 22,
+        "gender": "Female",
+        "address": {
+            "street": "999 Maple Lane",
+            "city": "Hillview",
+            "zip": "22468",
+            "country": "USA"
+        },
+        "email": "charlotte.clark@example.com",
+        "phone": "555-432-9876",
+        "courses": [
+            "Art History",
+            "Theater"
+        ],
+        "gpa": 3.7,
+        "subjects": {
+            "Renaissance Art": 89,
+            "Stage Design": 85,
+            "Modern Art Movements": 88
+        },
+        "image": "https://fakeimg.pl/500x500/cc6611"
+    }
+]
