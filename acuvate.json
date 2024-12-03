@@ -1,0 +1,420 @@
+{
+    "images": [
+        {
+            "url": "https://acuvate.com/wp-content/uploads/2020/02/acuvate-white-logo-3.png",
+            "description": "Acuvate"
+        },
+        {
+            "url": "https://acuvate.com/wp-content/uploads/2020/02/acuvateLogo-black-logo-3.png",
+            "description": "Acuvate"
+        },
+        {
+            "url": "https://acuvate.com/wp-content/uploads/2020/02/acuvate-black-logo-v1-min-3.png",
+            "description": "Acuvate"
+        },
+        {
+            "url": "https://acuvate.com/wp-content/uploads/2024/11/Multi-Meta-RAG_-Enhancing-Retrieval-Augmented-Generation-for-Complex-Multi-Hop-Queries-1.webp",
+            "description": "Multi-Meta-RAG: Enhancing Retrieval-Augmented Generation for Complex Multi-Hop Queries"
+        },
+        {
+            "url": "https://acuvate.com/wp-content/uploads/2024/11/AcuPrism-Now-Available-on-AWS-and-GCP.webp",
+            "description": "AcuPrism Now Available on AWS and GCP"
+        },
+        {
+            "url": "https://acuvate.com/wp-content/uploads/2024/10/AcuvatexKDI.webp",
+            "description": "Integrated Digital Twin Solutions by Acuvate and KDI"
+        },
+        {
+            "url": "https://acuvate.com/wp-content/uploads/2023/10/CXO-eBook-web-mockup.png",
+            "description": "CXO eBook web mockup"
+        },
+        {
+            "url": "https://acuvate.com/wp-content/uploads/2023/05/The-Rise-of-Intelligent-AI-Chatbots-3.png",
+            "description": "The Rise of Intelligent AI Chatbots"
+        },
+        {
+            "url": "https://acuvate.com/wp-content/uploads/2023/05/The-Ultimate-Guide-for-Oil-and-Gas-CIOs-3.png",
+            "description": "Guide for Oil and Gas CIOs"
+        },
+        {
+            "url": "https://acuvate.com/wp-content/uploads/2024/11/Synergy-Norway-1024x565.webp",
+            "description": ""
+        },
+        {
+            "url": "https://acuvate.com/wp-content/uploads/2024/11/IOTech-Webinar-Dec-1024x565.webp",
+            "description": ""
+        },
+        {
+            "url": "https://acuvate.com/wp-content/uploads/2024/11/MS-Fabric-Webinar-On-Demand-1-1024x565.webp",
+            "description": ""
+        },
+        {
+            "url": "https://acuvate.com/wp-content/uploads/2022/02/How-CX-chatbots-are-changing-the-way-businesses-interact-with-customers-podcast.png",
+            "description": "How CX chatbots are changing the way businesses interact with customers"
+        },
+        {
+            "url": "https://acuvate.com/wp-content/uploads/2021/12/Rakesh-podcast-on-cpg.jpg",
+            "description": "Rakesh podcast"
+        },
+        {
+            "url": "https://acuvate.com/wp-content/uploads/2021/12/Jagan-Podcast-Image-1536x864-1-1024x576.png",
+            "description": "Jagan Podcast"
+        },
+        {
+            "url": "https://acuvate.com/wp-content/uploads/2022/01/Azure-Database-Migration-Workshop-main.png",
+            "description": "Azure Database Migration Workshop main"
+        },
+        {
+            "url": "https://acuvate.com/wp-content/uploads/2022/01/Azure-Synapse-Analytics-Workshop-main.png",
+            "description": "Azure Synapse Analytics Workshop main"
+        },
+        {
+            "url": "https://acuvate.com/wp-content/uploads/2022/01/Power-BI-Workshop-banner-main.png",
+            "description": ""
+        },
+        {
+            "url": "https://acuvate.com/wp-content/uploads/2022/06/Digital-Transformation-Use-Cases-telecom-1.png",
+            "description": "Digital Transformation Use Cases telecom"
+        },
+        {
+            "url": "https://acuvate.com/wp-content/uploads/2022/02/Digital-Transformation-Use-Cases-Automotive.png",
+            "description": "Digital Transformation Use Cases Automotive"
+        },
+        {
+            "url": "https://acuvate.com/wp-content/uploads/2022/02/Digital-Transformation-oil-and-cas.png",
+            "description": "Digital Transformation oil and cas"
+        },
+        {
+            "url": "https://acuvate.com/wp-content/uploads/2022/01/Steps-to-implement-generative-ai-for-your-enterprisesss-3.png",
+            "description": "Steps to implement generative ai for your enterprisesss"
+        },
+        {
+            "url": "https://acuvate.com/wp-content/uploads/2022/01/info1-3.png",
+            "description": "CPG Use Cases of Generative AI in Marketing, Sales, and Advertising"
+        },
+        {
+            "url": "https://acuvate.com/wp-content/uploads/2022/01/info2-3.png",
+            "description": "https://2216042.fs1.hubspotusercontent-na1.net/hubfs/2216042/Considerations-for-Scaling-AI-in-your-Enterprise.pdf"
+        },
+        {
+            "url": "https://acuvate.com/wp-content/uploads/2022/01/baby-dove-mega-menu-img-3.png",
+            "description": "Unilever\u2019s Baby Dove Brand"
+        },
+        {
+            "url": "https://acuvate.com/wp-content/uploads/2022/01/Delivering-Public-Safety-CS-mega-menu-3.png",
+            "description": "Acuvate Digital Transformation"
+        },
+        {
+            "url": "https://acuvate.com/wp-content/uploads/2022/01/data-analytics-mega-menu-3.png",
+            "description": "Data Analytics Solution"
+        },
+        {
+            "url": "https://acuvate.com/wp-content/uploads/2022/01/Partner-collage-1-768x428.png",
+            "description": ""
+        },
+        {
+            "url": "https://acuvate.com/wp-content/uploads/2022/01/Kongsberg-News-1.png",
+            "description": ""
+        },
+        {
+            "url": "https://acuvate.com/wp-content/uploads/2020/02/acuvate-black-logo-v1-min-3.png",
+            "description": "acuvate"
+        },
+        {
+            "url": "https://acuvate.com/wp-content/plugins/revslider/public/assets/assets/dummy.png",
+            "description": ""
+        },
+        {
+            "url": "https://acuvate.com/wp-content/plugins/revslider/public/assets/assets/dummy.png",
+            "description": ""
+        },
+        {
+            "url": "https://acuvate.com/wp-content/plugins/revslider/public/assets/assets/dummy.png",
+            "description": ""
+        },
+        {
+            "url": "https://acuvate.com/wp-content/plugins/revslider/public/assets/assets/dummy.png",
+            "description": ""
+        },
+        {
+            "url": "https://acuvate.com/wp-content/plugins/revslider/public/assets/assets/dummy.png",
+            "description": ""
+        },
+        {
+            "url": "https://acuvate.com/wp-content/uploads/2023/11/waterplant.png",
+            "description": "waterplant"
+        },
+        {
+            "url": "https://acuvate.com/wp-content/uploads/2021/12/enchange-ex.png",
+            "description": "chatbots for improving employee experience"
+        },
+        {
+            "url": "https://acuvate.com/wp-content/uploads/2021/12/reduce.png",
+            "description": "chatbots for enhancing customer experience"
+        },
+        {
+            "url": "https://acuvate.com/wp-content/uploads/2022/01/Sustainability-goals-and-digital-supply-chain-solution.png",
+            "description": "Sustainability goals and digital supply chain solution"
+        },
+        {
+            "url": "https://acuvate.com/wp-content/uploads/2022/01/IOT-Solution-for-a-global-consumer-goods-company.png",
+            "description": "IOT Solution for a global consumer goods company"
+        },
+        {
+            "url": "https://acuvate.com/wp-content/uploads/2021/12/unversial-logo-1.png",
+            "description": "unversial-logo"
+        },
+        {
+            "url": "https://acuvate.com/wp-content/uploads/2021/12/nyc-logo.png",
+            "description": "nyc-logo"
+        },
+        {
+            "url": "https://acuvate.com/wp-content/uploads/2021/12/nept-logo.png",
+            "description": "nept-logo"
+        },
+        {
+            "url": "https://acuvate.com/wp-content/uploads/2021/12/shell-logo-1.png",
+            "description": "shell-logo"
+        },
+        {
+            "url": "https://acuvate.com/wp-content/uploads/2022/04/Reckitt_logo-new.png",
+            "description": "Reckitt"
+        },
+        {
+            "url": "https://acuvate.com/wp-content/uploads/2021/12/diageo-logo.png",
+            "description": "diageo-logo"
+        },
+        {
+            "url": "https://acuvate.com/wp-content/uploads/2021/12/seadrill-logo.png",
+            "description": "seadrill-logo"
+        },
+        {
+            "url": "https://acuvate.com/wp-content/uploads/2021/12/celgene-logo.png",
+            "description": "celgene-logo"
+        },
+        {
+            "url": "https://acuvate.com/wp-content/uploads/2021/12/grief-logo.png",
+            "description": "grief-logo"
+        },
+        {
+            "url": "https://acuvate.com/wp-content/uploads/2021/12/britvic-logo.png",
+            "description": "britvic-logo"
+        },
+        {
+            "url": "https://acuvate.com/wp-content/uploads/2021/12/icici-logo-1.png",
+            "description": "icici-logo"
+        },
+        {
+            "url": "https://acuvate.com/wp-content/uploads/2022/01/bajaj-logo.png",
+            "description": "bajaj logo"
+        },
+        {
+            "url": "https://acuvate.com/wp-content/uploads/2022/01/BC-Pension-logo.png",
+            "description": "BC Pension logo"
+        },
+        {
+            "url": "https://acuvate.com/wp-content/uploads/2022/01/biffa-logo.png",
+            "description": "biffa logo"
+        },
+        {
+            "url": "https://acuvate.com/wp-content/uploads/2022/01/Biogen-logo.png",
+            "description": "Biogen logo"
+        },
+        {
+            "url": "https://acuvate.com/wp-content/uploads/2021/12/heid-logo.png",
+            "description": "heid-logo"
+        },
+        {
+            "url": "https://acuvate.com/wp-content/uploads/2021/12/arvind-logo.png",
+            "description": "arvind-logo"
+        },
+        {
+            "url": "https://acuvate.com/wp-content/uploads/2022/01/Tata-Global-Beverages-logo.png",
+            "description": "Tata Global Beverages logo"
+        },
+        {
+            "url": "https://acuvate.com/wp-content/uploads/2021/12/lupin-logo.png",
+            "description": "lupin-logo"
+        },
+        {
+            "url": "https://acuvate.com/wp-content/uploads/2021/12/crowe-logo.png",
+            "description": "crowe-logo"
+        },
+        {
+            "url": "https://acuvate.com/wp-content/uploads/2021/12/leic-logo.png",
+            "description": "leic-logo"
+        },
+        {
+            "url": "https://acuvate.com/wp-content/uploads/2021/12/jubliant-logo.png",
+            "description": "jubliant-logo"
+        },
+        {
+            "url": "https://acuvate.com/wp-content/uploads/2021/12/aon-logo-1.png",
+            "description": "aon-logo"
+        },
+        {
+            "url": "https://acuvate.com/wp-content/uploads/2021/12/w-logo-1.png",
+            "description": "w-logo"
+        },
+        {
+            "url": "https://acuvate.com/wp-content/uploads/2021/12/aa-logo-1.png",
+            "description": "aa-logo"
+        },
+        {
+            "url": "https://acuvate.com/wp-content/uploads/2022/01/axa-logo.png",
+            "description": "axa logo"
+        },
+        {
+            "url": "https://acuvate.com/wp-content/uploads/2022/01/astellas-logo.png",
+            "description": "astellas logo"
+        },
+        {
+            "url": "https://acuvate.com/wp-content/uploads/2022/01/Aricent-group-logo.png",
+            "description": "Aricent group logo"
+        },
+        {
+            "url": "https://acuvate.com/wp-content/uploads/2022/01/Akzonobel-logo.png",
+            "description": "Akzonobel logo"
+        },
+        {
+            "url": "https://acuvate.com/wp-content/uploads/2022/01/abinbev-logo.png",
+            "description": "abinbev logo"
+        },
+        {
+            "url": "https://acuvate.com/wp-content/uploads/2024/04/7-step-framework-updated.gif",
+            "description": ""
+        },
+        {
+            "url": "https://acuvate.com/wp-content/uploads/2024/04/Fact-Sheet-Data-Platform-300x120.png",
+            "description": ""
+        },
+        {
+            "url": "https://acuvate.com/wp-content/uploads/2024/04/Fact-Sheet-Acuvate-Digital-Framework-300x120.png",
+            "description": ""
+        },
+        {
+            "url": "https://acuvate.com/wp-content/uploads/2024/04/Fact-Sheet-Edge-300x120.png",
+            "description": ""
+        },
+        {
+            "url": "https://acuvate.com/wp-content/uploads/2024/04/Fact-Sheet-4-Acuvate-Business-Services-2-300x120.webp",
+            "description": ""
+        },
+        {
+            "url": "https://acuvate.com/wp-content/uploads/2024/05/Factsheet-5-Acuvate-Data-Handling-Services-300x120.png",
+            "description": ""
+        },
+        {
+            "url": "https://acuvate.com/wp-content/uploads/2024/07/Factsheet_-Acuvate-Generative-AI-Services-300x120.png",
+            "description": ""
+        },
+        {
+            "url": "https://acuvate.com/wp-content/uploads/2024/07/Factsheet_-Acuvate-AI-Services-300x120.png",
+            "description": ""
+        },
+        {
+            "url": "https://acuvate.com/wp-content/uploads/2021/12/unilever-pix-1.png",
+            "description": "unilever-pix-1"
+        },
+        {
+            "url": "https://acuvate.com/wp-content/uploads/2021/12/unilever-pix-1.png",
+            "description": "unilever-pix-1"
+        },
+        {
+            "url": "https://acuvate.com/wp-content/uploads/2022/02/prospera-client-icon.png",
+            "description": "Prospera"
+        },
+        {
+            "url": "https://acuvate.com/wp-content/uploads/2022/01/bajaj-1-1.png",
+            "description": "bajaj-1"
+        },
+        {
+            "url": "https://acuvate.com/wp-content/uploads/2022/01/diageo-1-1.png",
+            "description": "diageo-1"
+        },
+        {
+            "url": "https://acuvate.com/wp-content/uploads/2021/12/unilever-pix-1.png",
+            "description": "unilever-pix-1"
+        },
+        {
+            "url": "https://acuvate.com/wp-content/uploads/2022/01/akzonobel-1-1.png",
+            "description": "akzonobel-1"
+        },
+        {
+            "url": "https://acuvate.com/wp-content/uploads/2022/01/campus-logo-1.png",
+            "description": "campus-logo"
+        },
+        {
+            "url": "https://acuvate.com/wp-content/uploads/2022/01/suzlon-1-1.png",
+            "description": "suzlon-1"
+        },
+        {
+            "url": "https://acuvate.com/wp-content/uploads/2022/01/super-gas-1-1.png",
+            "description": "super-gas-1"
+        },
+        {
+            "url": "https://acuvate.com/wp-content/uploads/2022/01/dalmia-1-1.png",
+            "description": "dalmia-1"
+        },
+        {
+            "url": "https://acuvate.com/wp-content/uploads/2022/01/wmfs-1-1.png",
+            "description": "wmfs-1"
+        },
+        {
+            "url": "https://acuvate.com/wp-content/uploads/2022/01/neptune-1-1.png",
+            "description": "neptune-1"
+        },
+        {
+            "url": "https://acuvate.com/wp-content/uploads/2021/12/microsoft-logo-1-1.png",
+            "description": "Acuvate Microsoft Gold Partner"
+        },
+        {
+            "url": "https://acuvate.com/wp-content/uploads/2021/12/google-partner-1-1.png",
+            "description": "Google Cloud Partner Acuvate"
+        },
+        {
+            "url": "https://acuvate.com/wp-content/uploads/2023/03/blueprint-logo-3-1024x235.png",
+            "description": "blueprint"
+        },
+        {
+            "url": "https://acuvate.com/wp-content/uploads/2024/02/databricks.webp",
+            "description": ""
+        },
+        {
+            "url": "https://acuvate.com/wp-content/uploads/2022/01/UI-path-certified.png",
+            "description": ""
+        },
+        {
+            "url": "https://acuvate.com/wp-content/uploads/2023/05/automation_logo_png-removebg-preview-3.png",
+            "description": ""
+        },
+        {
+            "url": "https://acuvate.com/wp-content/uploads/2021/12/partnership.jpg",
+            "description": ""
+        },
+        {
+            "url": "https://acuvate.com/wp-content/uploads/2022/01/life-at-acuvate.png",
+            "description": "life at acuvate"
+        },
+        {
+            "url": "https://acuvate.com/wp-content/uploads/2022/12/Rajani-Brand-Ambassdors-3.png",
+            "description": ""
+        },
+        {
+            "url": "https://acuvate.com/wp-content/uploads/2024/11/Power-BI-to-MS-Fabric.webp",
+            "description": "Transitioning to Microsoft Fabric from Power BI Premium"
+        },
+        {
+            "url": "https://acuvate.com/wp-content/uploads/2024/11/Multi-Meta-RAG_-Enhancing-Retrieval-Augmented-Generation-for-Complex-Multi-Hop-Queries-1.webp",
+            "description": "Multi-Meta-RAG: Enhancing Retrieval-Augmented Generation for Complex Multi-Hop Queries"
+        },
+        {
+            "url": "https://acuvate.com/wp-content/uploads/2024/11/AcuPrism-Now-Available-on-AWS-and-GCP.webp",
+            "description": "AcuPrism Now Available on AWS and GCP"
+        },
+        {
+            "url": "https://acuvate.com/wp-content/uploads/2024/10/AcuvatexKDI.webp",
+            "description": "Integrated Digital Twin Solutions by Acuvate and KDI"
+        }
+    ]
+}
