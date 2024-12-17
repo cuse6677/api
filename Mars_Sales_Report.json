@@ -1,0 +1,202 @@
+[
+    {
+        "id": 1,
+        "product": "Hydrating Face Cream",
+        "category": "Skincare",
+        "region": "North America",
+        "units_sold": 1500,
+        "revenue": 45000,
+        "customer_rating": 4.8,
+        "month": "January"
+    },
+    {
+        "id": 2,
+        "product": "Matte Lipstick",
+        "category": "Makeup",
+        "region": "Europe",
+        "units_sold": 3200,
+        "revenue": 64000,
+        "customer_rating": 4.6,
+        "month": "January"
+    },
+    {
+        "id": 3,
+        "product": "Rejuvenating Night Serum",
+        "category": "Skincare",
+        "region": "Asia",
+        "units_sold": 1800,
+        "revenue": 54000,
+        "customer_rating": 4.7,
+        "month": "February"
+    },
+    {
+        "id": 4,
+        "product": "Waterproof Mascara",
+        "category": "Makeup",
+        "region": "South America",
+        "units_sold": 2100,
+        "revenue": 31500,
+        "customer_rating": 4.5,
+        "month": "February"
+    },
+    {
+        "id": 5,
+        "product": "SPF 50 Sunscreen",
+        "category": "Skincare",
+        "region": "Australia",
+        "units_sold": 2400,
+        "revenue": 48000,
+        "customer_rating": 4.9,
+        "month": "March"
+    },
+    {
+        "id": 6,
+        "product": "Nourishing Hair Oil",
+        "category": "Haircare",
+        "region": "Africa",
+        "units_sold": 1300,
+        "revenue": 19500,
+        "customer_rating": 4.6,
+        "month": "March"
+    },
+    {
+        "id": 7,
+        "product": "Cleansing Foam",
+        "category": "Skincare",
+        "region": "North America",
+        "units_sold": 1700,
+        "revenue": 51000,
+        "customer_rating": 4.7,
+        "month": "April"
+    },
+    {
+        "id": 8,
+        "product": "Liquid Eyeliner",
+        "category": "Makeup",
+        "region": "Europe",
+        "units_sold": 2900,
+        "revenue": 58000,
+        "customer_rating": 4.5,
+        "month": "April"
+    },
+    {
+        "id": 9,
+        "product": "Anti-Aging Serum",
+        "category": "Skincare",
+        "region": "Asia",
+        "units_sold": 2000,
+        "revenue": 60000,
+        "customer_rating": 4.8,
+        "month": "May"
+    },
+    {
+        "id": 10,
+        "product": "Volumizing Mascara",
+        "category": "Makeup",
+        "region": "South America",
+        "units_sold": 2400,
+        "revenue": 36000,
+        "customer_rating": 4.4,
+        "month": "May"
+    },
+    {
+        "id": 11,
+        "product": "Lip Balm SPF 15",
+        "category": "Skincare",
+        "region": "Australia",
+        "units_sold": 2600,
+        "revenue": 52000,
+        "customer_rating": 4.9,
+        "month": "June"
+    },
+    {
+        "id": 12,
+        "product": "Herbal Shampoo",
+        "category": "Haircare",
+        "region": "Africa",
+        "units_sold": 1400,
+        "revenue": 21000,
+        "customer_rating": 4.6,
+        "month": "June"
+    },
+    {
+        "id": 13,
+        "product": "Brightening Face Wash",
+        "category": "Skincare",
+        "region": "North America",
+        "units_sold": 1600,
+        "revenue": 48000,
+        "customer_rating": 4.7,
+        "month": "July"
+    },
+    {
+        "id": 14,
+        "product": "Lip Gloss",
+        "category": "Makeup",
+        "region": "Europe",
+        "units_sold": 3000,
+        "revenue": 60000,
+        "customer_rating": 4.5,
+        "month": "July"
+    },
+    {
+        "id": 15,
+        "product": "Vitamin C Serum",
+        "category": "Skincare",
+        "region": "Asia",
+        "units_sold": 2100,
+        "revenue": 63000,
+        "customer_rating": 4.8,
+        "month": "August"
+    },
+    {
+        "id": 16,
+        "product": "Curl-Enhancing Cream",
+        "category": "Haircare",
+        "region": "South America",
+        "units_sold": 1500,
+        "revenue": 22500,
+        "customer_rating": 4.5,
+        "month": "August"
+    },
+    {
+        "id": 17,
+        "product": "Hydrating Toner",
+        "category": "Skincare",
+        "region": "Australia",
+        "units_sold": 2300,
+        "revenue": 46000,
+        "customer_rating": 4.7,
+        "month": "September"
+    },
+    {
+        "id": 18,
+        "product": "Dry Shampoo",
+        "category": "Haircare",
+        "region": "Africa",
+        "units_sold": 1200,
+        "revenue": 18000,
+        "customer_rating": 4.6,
+        "month": "September"
+    },
+    {
+        "id": 19,
+        "product": "Exfoliating Scrub",
+        "category": "Skincare",
+        "region": "North America",
+        "units_sold": 1800,
+        "revenue": 54000,
+        "customer_rating": 4.8,
+        "month": "October"
+    },
+    {
+        "id": 20,
+        "product": "Setting Spray",
+        "category": "Makeup",
+        "region": "Europe",
+        "units_sold": 2500,
+        "revenue": 50000,
+        "customer_rating": 4.7,
+        "month": "October"
+    }
+]
