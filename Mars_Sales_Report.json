@@ -6,7 +6,11 @@
         "region": "North America",
         "units_sold": 1500,
         "revenue": 45000,
+        "profit_margin": 35,
         "customer_rating": 4.8,
+        "return_rate": 2.1,
+        "discount_percentage": 10,
+        "marketing_spend": 8000,
         "month": "January"
     },
     {
@@ -16,7 +20,11 @@
         "region": "Europe",
         "units_sold": 3200,
         "revenue": 64000,
+        "profit_margin": 40,
         "customer_rating": 4.6,
+        "return_rate": 3.5,
+        "discount_percentage": 15,
+        "marketing_spend": 12000,
         "month": "January"
     },
     {
@@ -26,7 +34,11 @@
         "region": "Asia",
         "units_sold": 1800,
         "revenue": 54000,
+        "profit_margin": 38,
         "customer_rating": 4.7,
+        "return_rate": 1.8,
+        "discount_percentage": 12,
+        "marketing_spend": 9000,
         "month": "February"
     },
     {
@@ -36,7 +48,11 @@
         "region": "South America",
         "units_sold": 2100,
         "revenue": 31500,
+        "profit_margin": 32,
         "customer_rating": 4.5,
+        "return_rate": 2.9,
+        "discount_percentage": 8,
+        "marketing_spend": 7000,
         "month": "February"
     },
     {
@@ -46,7 +62,11 @@
         "region": "Australia",
         "units_sold": 2400,
         "revenue": 48000,
+        "profit_margin": 45,
         "customer_rating": 4.9,
+        "return_rate": 1.5,
+        "discount_percentage": 10,
+        "marketing_spend": 10000,
         "month": "March"
     },
     {
@@ -56,7 +76,11 @@
         "region": "Africa",
         "units_sold": 1300,
         "revenue": 19500,
+        "profit_margin": 28,
         "customer_rating": 4.6,
+        "return_rate": 3.0,
+        "discount_percentage": 5,
+        "marketing_spend": 5000,
         "month": "March"
     },
     {
@@ -66,7 +90,11 @@
         "region": "North America",
         "units_sold": 1700,
         "revenue": 51000,
+        "profit_margin": 36,
         "customer_rating": 4.7,
+        "return_rate": 2.0,
+        "discount_percentage": 8,
+        "marketing_spend": 8500,
         "month": "April"
     },
     {
@@ -76,7 +104,11 @@
         "region": "Europe",
         "units_sold": 2900,
         "revenue": 58000,
+        "profit_margin": 34,
         "customer_rating": 4.5,
+        "return_rate": 3.2,
+        "discount_percentage": 14,
+        "marketing_spend": 11000,
         "month": "April"
     },
     {
@@ -86,7 +118,11 @@
         "region": "Asia",
         "units_sold": 2000,
         "revenue": 60000,
+        "profit_margin": 39,
         "customer_rating": 4.8,
+        "return_rate": 1.7,
+        "discount_percentage": 9,
+        "marketing_spend": 9500,
         "month": "May"
     },
     {
@@ -96,7 +132,11 @@
         "region": "South America",
         "units_sold": 2400,
         "revenue": 36000,
+        "profit_margin": 30,
         "customer_rating": 4.4,
+        "return_rate": 2.7,
+        "discount_percentage": 7,
+        "marketing_spend": 6000,
         "month": "May"
     },
     {
@@ -106,7 +146,11 @@
         "region": "Australia",
         "units_sold": 2600,
         "revenue": 52000,
+        "profit_margin": 42,
         "customer_rating": 4.9,
+        "return_rate": 1.6,
+        "discount_percentage": 10,
+        "marketing_spend": 10000,
         "month": "June"
     },
     {
@@ -116,7 +160,11 @@
         "region": "Africa",
         "units_sold": 1400,
         "revenue": 21000,
+        "profit_margin": 27,
         "customer_rating": 4.6,
+        "return_rate": 3.1,
+        "discount_percentage": 6,
+        "marketing_spend": 4500,
         "month": "June"
     },
     {
@@ -126,7 +174,11 @@
         "region": "North America",
         "units_sold": 1600,
         "revenue": 48000,
-        "customer_rating": 4.7,
+        "profit_margin": 37,
+        "customer_rating": 4.8,
+        "return_rate": 2.3,
+        "discount_percentage": 8,
+        "marketing_spend": 7800,
         "month": "July"
     },
     {
@@ -136,7 +188,11 @@
         "region": "Europe",
         "units_sold": 3000,
         "revenue": 60000,
+        "profit_margin": 33,
         "customer_rating": 4.5,
+        "return_rate": 3.0,
+        "discount_percentage": 12,
+        "marketing_spend": 10500,
         "month": "July"
     },
     {
@@ -146,7 +202,11 @@
         "region": "Asia",
         "units_sold": 2100,
         "revenue": 63000,
+        "profit_margin": 41,
         "customer_rating": 4.8,
+        "return_rate": 1.5,
+        "discount_percentage": 9,
+        "marketing_spend": 9700,
         "month": "August"
     },
     {
@@ -156,7 +216,11 @@
         "region": "South America",
         "units_sold": 1500,
         "revenue": 22500,
+        "profit_margin": 28,
         "customer_rating": 4.5,
+        "return_rate": 2.8,
+        "discount_percentage": 7,
+        "marketing_spend": 5000,
         "month": "August"
     },
     {
@@ -166,7 +230,11 @@
         "region": "Australia",
         "units_sold": 2300,
         "revenue": 46000,
+        "profit_margin": 40,
         "customer_rating": 4.7,
+        "return_rate": 1.9,
+        "discount_percentage": 10,
+        "marketing_spend": 8800,
         "month": "September"
     },
     {
@@ -176,7 +244,11 @@
         "region": "Africa",
         "units_sold": 1200,
         "revenue": 18000,
+        "profit_margin": 25,
         "customer_rating": 4.6,
+        "return_rate": 3.2,
+        "discount_percentage": 5,
+        "marketing_spend": 4300,
         "month": "September"
     },
     {
@@ -186,7 +258,11 @@
         "region": "North America",
         "units_sold": 1800,
         "revenue": 54000,
+        "profit_margin": 38,
         "customer_rating": 4.8,
+        "return_rate": 2.0,
+        "discount_percentage": 8,
+        "marketing_spend": 8700,
         "month": "October"
     },
     {
@@ -196,7 +272,11 @@
         "region": "Europe",
         "units_sold": 2500,
         "revenue": 50000,
+        "profit_margin": 35,
         "customer_rating": 4.7,
+        "return_rate": 2.4,
+        "discount_percentage": 10,
+        "marketing_spend": 9500,
         "month": "October"
     }
 ]
